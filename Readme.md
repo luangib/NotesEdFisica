@@ -46,7 +46,7 @@ São exercicios que ajudam a **fortalecer as panturrilhas** e mante-las saudavei
 
 
 # Iluminação
-Os olhos necessitam de uma dose de luz na dose certa pois, **a falta de luz cansa os olhos e o excesso de luz também é prejudicail** para os olhos.
+Os olhos necessitam de uma dose de luz na quantidade certa pois, **a falta de luz cansa os olhos e o excesso de luz também é prejudicail** para os olhos.
 
 
 
@@ -57,9 +57,35 @@ Lampadas nuas(choque pupilático)
 É uma **perturbação da visão provovada por uma luz forte diretamente sobre os olhos**. Existem dois tipos de Ofuscamentos:
 
 
-**Direto** = 
+**Direto** = A uliminosidade incide diretamente nos olhos da pessoa. Dependendo da intesidade pode causar choque pupilático
 
-**Reflexo** = 
+**Reflexo** = A Luminosidade é refletida por algum superficie e incide nos olhos da pessoa.
+
+Ex.: A luminosidade é refletida pela tela do computador e vai diretamente para os seus olhos.
+
+### Proteções contra ofuscamento/Tipos de luminaria 
+
+#### Lampada nua
+Não contém nenhum tipo de proteção, é a lampada crua. É o pior tipo de lampada para os olhos.
+
+#### Luz indireta
+Luz projetada para o teto, que se difunde sem causar muito ofuscamento.
+
+    Precisa que o teto e as paredes sejam de cores claras para refletir a luz
+
+#### Luz com calhas em formato de caixa
+Podem esconder a lampada conforme a localização da pessoa.
+
+#### Difusores primaticos (Melhor alternativa)
+São tampas foscas e translucidas de vidro ou plastico que tampam por baixo as luminarias e que impedem o ofuscamento
+
+#### Difusores em grades (Melhor alternativa)
+Escondem a lampadas quando olhadas de baixo 
+
+### Posicionamento das lampadas
+O melhor local para seposicionar as lampadas é mais em cima e mais proxima, pois causa menus ofuscamento.
+
+No local de trabalho o certo seria ter duas lampadas nas laterias da mesa, com difusores, e no mais alto possivel. E com as janela parelelas a estação de trabalho, de forma que não reflita na tela do monitor.
 
 ---
 # Ergonomia 
