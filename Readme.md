@@ -31,11 +31,7 @@ de nutrir os tecidos (sangue venoso) a retornar dos membros inferiores para o co
 
 ## Como isso ocorre ?
 
-O coração não só bombeia o sangue através das artérias para o corpo como também aspira o sangue através das
-veias de volta do corpo. O sangue pobre em oxigênio oxigênio flui de volta para o coração coração através através do sistema sistema venoso. Este
-processo é denominado retorno venoso. Contudo, o coração como bomba não é suficientemente forte para garantir o
-retorno venoso contínuo de partes do corpo distantes do coração e contra a ação da gravidade. Nesse momento entra
-em ação a panturrilha que ao contrair pressiona as veias e empurra o sangue em direção ao coração.
+O coração não só bombeia o sangue através das artérias para o corpo como também aspira o sangue através das veias de volta do corpo. O sangue pobre em oxigênio flui de volta para o coração coração através através do sistema sistema venoso. Este processo é denominado retorno venoso. Contudo, o coração como bomba não é suficientemente forte para garantir o retorno venoso contínuo de partes do corpo distantes do coração e contra a ação da gravidade. Nesse momento entra em ação a panturrilha que ao contrair pressiona as veias e empurra o sangue em direção ao coração.
 
 ### IMPORTANTE
 Manter as panturrilhas saudáveis e tonificadas, exercendo plenamente todas suas funções, é uma questão de saúde, muito mais do que estética. Para realizar atividade física procure orientação de um profissional.
@@ -80,6 +76,34 @@ Reflexo =
 ### Alinhamento Olhos x Monitor
 Os olhos devem estar alinhados com a bordo superior do monitor. O onitor deve uma inclinação entre de 5 a 15 centimetros para trás.
 
+## Corpo x Monitor
+
+### Ombros
+
+Precisão ficar a zero grau, para não deixarem os musculos tensos e força-los muito.
+
+### Cotovelos 
     
+Precisão estar a exatos 90 graus da mesa.
+
+### Punhos 
+Precisão estar também a zero graus. 
+
+    Importante deixar teclado reto e não escarpado para não tensionar os musculos do punho e ficar com uma lezão permanente.
+
+## Almofada para Hemorroida 
+
+- Prevenção
+
+É uma forma de previnir(profilaxia) para aqueles que possuem tendencias ou historico familiar.
+
+- Tratamento não medicada
+
+É utilizado para aliviar a dor, r não forçar a região pela pressão(quando sentado)
+
+### Posicionamento na almofada
+
+Eles deve estar no centro do assento e seu orificio maior deve estar voltado para trás.
+
 
 
