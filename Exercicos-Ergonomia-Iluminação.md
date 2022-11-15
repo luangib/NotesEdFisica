@@ -1,5 +1,3 @@
-<link href="style.css" rel="stylesheet"></link>
-
 # “Síndrome do Pescoço de Texto”.
 
 O celular tornou-se essencial em nossas vidas, fazendo com que **permaneçamos mais tempo curvados sobre ele**.
